@@ -1,4 +1,4 @@
-Sources will appear here in the next couple of days. Please be patient.
+Sources will appear here when there are less time constraints. Please bear with me.
 
 Windway is a transportation system based on generating pressure differences in a long tube such that winds blow through it. The main method is by employing a heat pipe to conduct heat from one end of a tube to the other to set up a chimney effect.
 
