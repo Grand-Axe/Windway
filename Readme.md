@@ -1,7 +1,7 @@
 ## Notices
 
 1. This project is in the very early stages of development.
-2. Windway has moved to a folder at [Awesome City](https://github.com/Grand-Axe/Awesome-City/Ideas/Windway) - a summary for sustainable, AI driven development.
+2. **Windway has moved to a folder at [Awesome City](https://github.com/Grand-Axe/Awesome-City/Ideas/Windway) - a summary for sustainable, AI driven development.**
 
 
 
